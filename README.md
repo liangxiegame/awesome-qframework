@@ -9,3 +9,6 @@
 
 ## Game Demo
 * [Tetris](https://github.com/liangxiegame/Tetris)
+
+## Extension
+* [StateMachineEditor](https://gitee.com/l827922094/StatemanagerEditor)
